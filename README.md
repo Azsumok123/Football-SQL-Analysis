@@ -18,7 +18,6 @@ The database contains four tables:
 - `Teams` — Team names and league references
 - `Matches` — Fixtures, seasons, scores, and results
 
-I created primary and foreign keys and documented the database structure in an ER diagram.
 
 Analysis
 
